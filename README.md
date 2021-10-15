@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kumarprincepk
-- 👀 I’m interested in cybersecurity
+- 👋 Hi, I’m Prince Kumar
+- 👀 I’m interested in cybersecurity, AI, 
 - 🌱 I’m currently learning Btech
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/prince-kumar-9036b2212/
 
 <!---
 kumarprincepk/kumarprincepk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
