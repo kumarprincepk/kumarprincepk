@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, AI, 
 - 🌱 I’m currently learning Btech
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/prince-kumar-9036b2212/
+- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/prince-kumar-singh-pk
 
 <!---
 kumarprincepk/kumarprincepk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
