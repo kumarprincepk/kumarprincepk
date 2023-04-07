@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prince Kumar
-- 👀 I’m interested in cybersecurity, AI, 
-- 🌱 I’m currently learning Btech
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, cybersecurity and AI.
+- 🌱 I’m currently completed Btech.
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/prince-kumar-singh-pk
 
 <!---
